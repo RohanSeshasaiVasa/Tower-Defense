@@ -7,7 +7,9 @@ I have used Unity to make this game.
 There are three waves which can be set by the player
 
 There are three types of towers 
+
 <img width="693" height="344" alt="image" src="https://github.com/user-attachments/assets/0b058e7c-f916-4967-b7ca-0d2422f07a85" />
+
 
 There are 10 lives which decrease on leveling up further.
 
