@@ -13,7 +13,8 @@ There are three types of towers
 
 There are 10 lives which decrease on leveling up further.
 
-It has a pause manu too!! 
+It has a pause menu too!! 
+
 <img width="694" height="350" alt="image" src="https://github.com/user-attachments/assets/8e9472b9-7e06-45a1-9fab-0c38926776dc" /> 
 
 To play, the player has to place towers at a position where he can eliminate the enemies.
