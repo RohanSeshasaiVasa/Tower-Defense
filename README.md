@@ -2,7 +2,7 @@ So there will be some enemies like Orc and you will need to eliminate them by pl
 
 I have used Unity to make this game.
 
-<img width="959" height="538" alt="image" src="https://github.com/user-attachments/assets/0a7fdc54-5661-4978-b364-a4b88dfd7cb2" />
+![Alt Text](https://github.com/user-attachments/assets/0a7fdc54-5661-4978-b364-a4b88dfd7cb2)
 
 There are three levels of Waves <img width="165" height="51" alt="image" src="https://github.com/user-attachments/assets/ed04acb3-ec4f-4dc2-aadf-2af3a984c725" /> which can be set by the player itself according to their gameplay.
 
